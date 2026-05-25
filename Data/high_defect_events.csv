@@ -1,0 +1,4 @@
+Date,Machine_ID,Shift,Production_Count,Defects,Downtime_Minutes
+2026-05-02,M103,Night,450,20,50
+2026-05-03,M103,Evening,470,18,45
+2026-05-04,M103,Morning,460,17,48
